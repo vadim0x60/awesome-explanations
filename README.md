@@ -4,9 +4,9 @@ Best explanations of difficult concepts known to me
 * [Principal Component Analysis versus Multidimensional Scaling](https://tlacombe.github.io/teaching/notesCoursINF556/cours1.pdf) by [Théo Lacombe](https://tlacombe.github.io/)
 * Decision Trees. [A visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) by R2D3 ([Stephanie Yee](https://stephanie-yee.com/) and [Tony Chu](https://tonyhschu.ca/))
 * Universal approximation theorem. [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
-* Recurrent Neural Networks. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
-* Long Short Term Memory. [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* Recurrent Neural Networks. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) by [Andrej Karpathy](http://karpathy.github.io/)
+* Long Short Term Memory. [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) by [Christopher Olah](https://colah.github.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUyNTIxNjcsODY4MjA5MjEzLDQyNz
-E5MTEwOSwtMTkxMDE1OTM4XX0=
+eyJoaXN0b3J5IjpbNzQzMzU4NTAwLDg2ODIwOTIxMyw0MjcxOT
+ExMDksLTE5MTAxNTkzOF19
 -->
