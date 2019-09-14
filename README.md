@@ -1,7 +1,6 @@
 # Awesome Explanations
 Clearest explanations of difficult concepts known to me
 
-## Explanations
 * [Principal Component Analysis versus Multidimensional Scaling](https://tlacombe.github.io/teaching/notesCoursINF556/cours1.pdf) by [Théo Lacombe](https://tlacombe.github.io/) for [École polytechnique](https://www.polytechnique.edu/) ![Explanation](https://img.shields.io/badge/-explanation-brightgreen)
 * Decision Trees. [A visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) by R2D3 ([Stephanie Yee](https://stephanie-yee.com/) and [Tony Chu](https://tonyhschu.ca/)) ![Explanation](https://img.shields.io/badge/-explanation-brightgreen)
 * Recurrent Neural Networks. [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) by [Andrej Karpathy](http://karpathy.github.io/) ![Explanation](https://img.shields.io/badge/-explanation-brightgreen)
