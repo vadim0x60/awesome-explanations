@@ -18,6 +18,7 @@ Clearest explanations of difficult concepts known to me
 ## Other stuff
 
 * [Japanese verb conjugation](https://en.wikipedia.org/wiki/File:AMB_Japanese_Verbs.pdf) ![Cheatsheet](https://img.shields.io/badge/-cheatsheet-red) by [Aeron Buchanan](http://aeronbuchanan.com)
+* [Programming language cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) ![Cheatsheet](https://img.shields.io/badge/-cheatsheets-red) by [Aeron Buchanan](http://aeronbuchanan.com) by [Julien Le Coupanec](https://github.com/LeCoupa)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI5NjAyNzM3NSwxMzU2NjU1NiwtMTY0OT
