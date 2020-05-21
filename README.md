@@ -14,6 +14,7 @@ Clearest explanations of difficult concepts known to me
 * [Matrix Decompositions Cheat Sheet](https://github.com/oseledets/nla2018/blob/master/decompositions.pdf) by [Maxim Rakhuba](https://github.com/rakhuba) and [Alexandr Katrutsa](https://github.com/amkatrutsa) for [Skoltech](https://skoltech.ru) ![Cheatsheet](https://img.shields.io/badge/-cheatsheet-red)
 * TorchText. [Pytorch sentiment analysis](https://github.com/bentrevett/pytorch-sentiment-analysis/) by [Ben Trevett](https://github.com/bentrevett) ![Tutorial](https://img.shields.io/badge/-tutorial-violet)
 * Reinforcement learning algorithms: table 2 (page 2) of [OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)
+* Nesterov momentum. [Momentum in machine learning? What is Nesterov momentum?](https://medium.com/@abhinav.mahapatra10/ml-advanced-momentum-in-machine-learning-what-is-nesterov-momentum-ad37ce1935fc) by [Abhinav Mahapatra](https://medium.com/@abhinav.mahapatra10)
 
 ## Other stuff
 
