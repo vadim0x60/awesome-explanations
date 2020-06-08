@@ -20,6 +20,7 @@ Clearest explanations of difficult concepts known to me
 
 * [Japanese verb conjugation](https://en.wikipedia.org/wiki/File:AMB_Japanese_Verbs.pdf) ![Cheatsheet](https://img.shields.io/badge/-cheatsheet-red) by [Aeron Buchanan](http://aeronbuchanan.com)
 * [Programming language cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) ![Cheatsheet](https://img.shields.io/badge/-cheatsheets-red) by [Aeron Buchanan](http://aeronbuchanan.com) by [Julien Le Coupanec](https://github.com/LeCoupa)
+* [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject?postId=xg3hXCYQPJkwHyik2&view=postCommentsTop) on [LessWrong](https://www.lesswrong.com/)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI5NjAyNzM3NSwxMzU2NjU1NiwtMTY0OT
