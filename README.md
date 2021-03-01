@@ -5,6 +5,7 @@ Clearest explanations of difficult concepts known to me
 
 * Decision Trees. [A visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) by R2D3 ([Stephanie Yee](https://stephanie-yee.com/) and [Tony Chu](https://tonyhschu.ca/)) ![Explanation](https://img.shields.io/badge/-explanation-brightgreen)
 * AutoRegressive Integrated Moving Average. [Chapter 8: ARIMA models](https://otexts.com/fpp2/arima.html) of [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by [Rob J Hyndman](https://robjhyndman.com) and [George Athanasopoulos](https://research.monash.edu/en/persons/george-athanasopoulos) of [Monash University](http://monash.edu), Australia ![Explanation](https://img.shields.io/badge/-explanation-brightgreen)
+* [Stacking](https://www.kaggle.com/getting-started/18153)
 
 ### Linear algebra
 
